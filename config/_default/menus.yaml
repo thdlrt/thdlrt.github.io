@@ -19,6 +19,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Knowledge
+  - name: CsNotes
     url: https://thdlrt.github.io/CsNotes/
     weight: 40
