@@ -10,10 +10,7 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
+  - name: Blog
     url: /#news
     weight: 13
   - name: Experience
@@ -22,6 +19,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: Knowledge
+    url: https://thdlrt.github.io/CsNotes/
     weight: 40
