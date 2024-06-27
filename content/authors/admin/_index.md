@@ -49,7 +49,7 @@ education:
   - area: BSc Computer Science and Financial Engineering
     institution: Nanjing University
     date_start: 2021-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       GPA: 4.58/5.0
 
